@@ -4,4 +4,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellferreira&layout=compact&hide=html,css,assembly,c++&count_private=true" alt="gabriellferreira" /></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
