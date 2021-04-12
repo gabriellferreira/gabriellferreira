@@ -9,10 +9,3 @@
 
 #### Wakatime last year status
 [![gabriellferreira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriellferreira&range=last_year&layout=compact&hide_progress=false)]
-
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
